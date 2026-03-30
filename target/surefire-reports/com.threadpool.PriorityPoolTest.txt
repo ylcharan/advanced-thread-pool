@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.threadpool.PriorityPoolTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.437 s -- in com.threadpool.PriorityPoolTest

@@ -1,0 +1,13 @@
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/DynamicScaler.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/ThreadPoolScheduler.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/core/QueueStrategy.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/core/Task.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/core/TaskFuture.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/core/TaskQueue.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/demo/Demo.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/monitor/ThreadPoolMonitor.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/queue/FifoTaskQueue.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/queue/PriorityTaskQueue.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/queue/ScheduledTaskQueue.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/worker/WorkStealingWorker.java
+/Users/vikasy/projects/java-projects/adv-thread-pool/src/main/java/com/threadpool/worker/WorkerThread.java
